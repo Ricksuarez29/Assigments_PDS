@@ -53,15 +53,6 @@ Each student has a list of courses with grades. The `Student` class includes a m
 - **`calculate_gpa()`**: Calculates the student's GPA based on their grades in courses.
 </div>
 
-## Contributions
-<div style="background-color: #d3ffd3; padding: 10px;">
-Contributions are welcome. Please open an issue or a pull request to discuss any changes.
-</div>
-
-## License
-<div style="background-color: #e0ffff; padding: 10px;">
-This project is licensed under the MIT License. See the LICENSE file for more details.
-</div>
 
 
 
