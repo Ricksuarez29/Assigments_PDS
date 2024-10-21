@@ -1,4 +1,4 @@
-![Python for Data Science](C:\Users\ochix\Desktop\MSc BA Esade\Term 1\Python for Data Science\Assigments_PDS/course_logo.png)
+![Python for Data Science](course_logo.png)
 
 
 ## Repository created for all the class assignments of Python for Data Science
