@@ -1,4 +1,4 @@
-<img src="course_logo.png" alt="Python for Data Science" width="200"/>
+<img src="course_logo.png" alt="Python for Data Science" width="300"/>
 
 # Python for Data Science Course - ESADE
 
