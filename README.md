@@ -1,5 +1,21 @@
 ![Python for Data Science](course_logo.png)
 
+# Python for Data Science Course - ESADE
 
-## Repository created for all the class assignments of Python for Data Science
+Welcome to the repository for the Python for Data Science course at ESADE. This repository contains all  assignments and resources for each session of the course.
+
+## Repository Structure
+
 The main branch contains all the folders for each session assignments.
+
+The repository is organized into folders by session. Inside each folder, you will find the corresponding assignments and any additional resources for that session.
+
+- Session_01: Python Refresh
+
+- Session_02: Environments
+
+- Session_03: Object-Oriented Programming
+
+- Session_04: Basic Libraries
+
+- Session_05: Basic Libraries II
