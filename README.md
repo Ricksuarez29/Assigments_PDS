@@ -1,4 +1,4 @@
-![Python for Data Science](course_logo.png)
+<img src="course_logo.png" alt="Python for Data Science" width="200"/>
 
 # Python for Data Science Course - ESADE
 
