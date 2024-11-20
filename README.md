@@ -8,7 +8,7 @@ Welcome to the repository for the Python for Data Science course at ESADE. This 
 
 The main branch contains all the folders for each session assignments.
 
-The repository is organized into folders by session. Inside each folder, you will find the corresponding assignments and any additional resources for that session.
+The repository is organized into folders by session. Inside each folder, you will find the corresponding assignments and the additional resources for that session, as well as a readme file explaining each assignment.
 
 - Session_01: Python Refresh
 
@@ -19,3 +19,9 @@ The repository is organized into folders by session. Inside each folder, you wil
 - Session_04: Basic Libraries
 
 - Session_05: Basic Libraries II
+
+- Session_06: Pandas I
+
+
+## Python Version -
+- **Python 3.11.9**
