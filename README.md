@@ -4,6 +4,12 @@
 
 Welcome to the repository for the **Python for Data Science** course at ESADE. This repository contains all assignments and resources for each session of the course.
 
+## 📖 Table of Contents
+1. [Repository Structure](#-repository-structure)
+2. [Python Version](#-python-version)
+3. [Contribution](#-contribution)
+4. [Contact Information](#-contact-information)
+
 ## 📁 Repository Structure
 
 The main branch contains all the folders for each session's assignments.
@@ -19,5 +25,15 @@ The repository is organized into folders by session. Inside each folder, you wil
 - 📔 **Session_07:** Pandas II
 - 📚 **Session_08:** Plotting
 
-## 🐍 Python Version -
+## 🐍 Python Version
 - **Python 3.11.9**
+
+## 🤝 Contribution
+We welcome contributions to improve the course materials and assignments. If you have suggestions, please create a pull request or open an issue.
+
+## 📬 Contact Information
+For any questions or additional information about the course, feel free to reach out:
+
+- **Email:** [course.email@example.com](mailto:course.email@example.com)
+- **Linkedin:** [www.esade.edu](https://www.esade.edu)
+
