@@ -34,6 +34,6 @@ We welcome contributions to improve the course materials and assignments. If you
 ## 📬 Contact Information
 For any questions or additional information about the course, feel free to reach out:
 
-- **Email:** [course.email@example.com](mailto:course.email@example.com)
-- **Linkedin:** [www.esade.edu](https://www.esade.edu)
+- **Email:** [ricardojose.suarez@alumni.esade.edu](mailto:ricardojose.suarez@alumni.esade.edu)
+- **Linkedin:** [www.linkedin.com/in/ricardojosesuarez](www.linkedin.com/in/ricardojosesuarez)
 
